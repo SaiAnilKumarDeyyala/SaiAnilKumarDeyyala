@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Machine Learning, Computer Vision etc.,**
 
-- 👨‍💻 All of my projects are available at [https://saianilkumardeyyala.github.io/SaiAnilKumarDeyyalaPortfolio/](https://saianilkumardeyyala.github.io/SaiAnilKumarDeyyalaPortfolio/)
+- 👨‍💻 You can also check out my portfolio at [https://saianilkumardeyyala.github.io/SaiAnilKumarDeyyalaPortfolio/](https://saianilkumardeyyala.github.io/SaiAnilKumarDeyyalaPortfolio/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19yfcZjsPLL08Jo8UkvKpo7Gj1F5MCumX/view](https://drive.google.com/file/d/19yfcZjsPLL08Jo8UkvKpo7Gj1F5MCumX/view)
+- 📄 Resume [https://drive.google.com/file/d/19yfcZjsPLL08Jo8UkvKpo7Gj1F5MCumX/view](https://drive.google.com/file/d/19yfcZjsPLL08Jo8UkvKpo7Gj1F5MCumX/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
