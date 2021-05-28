@@ -8,6 +8,8 @@
 
 - 📄 Resume [https://drive.google.com/file/d/19yfcZjsPLL08Jo8UkvKpo7Gj1F5MCumX/view](https://drive.google.com/file/d/19yfcZjsPLL08Jo8UkvKpo7Gj1F5MCumX/view)
 
+![](https://komarev.com/ghpvc/?username=SaiAnilKumarDeyyala)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sai anil kumar deyyala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="sai anil kumar deyyala" height="30" width="40" /></a>
